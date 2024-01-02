@@ -1,0 +1,58 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.boxmodel {
+  border: 1px solid #2196F3;
+  border-radius: 5px;
+}
+
+.createform {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+
+.ticket-query-container {
+  border: 5px solid goldenrod;
+  border-radius: 10px;
+  background-color: #2196F3;
+
+}
+
+.ticket-query-title {
+  font-size: 20px;
+  color: white;
+}
+
+.adminlogin {
+  border: 5px solid rebeccapurple;
+  border-radius: 10px;
+  background: #2196F3;
+  color: white;
+}
+
+.adminticketdetailcont {
+  border: 3px solid #2196F3 ;
+  border-radius: 5px;
+}
+
+.responsesbox {
+  border: 1px solid #2196F3;
+  border-radius: 5px;
+}
+
+.color-green {
+  color: yellowgreen;
+}
+
+.queryboxmodel {
+  border: 3px solid #2196F3 ;
+  border-radius: 5px;
+}
+
+.successmessage {
+  color: green;
+  font-size: 25px;
+}
