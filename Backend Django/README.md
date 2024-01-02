@@ -16,20 +16,22 @@
 
   Type these into the terminal while in the root directory of the project:
    
-      For Windows : myvenv\Scripts\activate
-      For Linux Or Macos: source myvenv/bin/activate
+   =>  For Windows : myvenv\Scripts\activate
+   =>  For Linux Or Macos: source myvenv/bin/activate
       
    => python manage.py runserver (so the backend will work.)
    
 There are project dependencies in the venv file, but if you want to create a new venv, follow this path:
 
-For Windows: python -m venv myvenv ( creates a new virtual environment )
+   => For Windows: python -m venv myvenv ( creates a new virtual environment )
+   => For Linux Or Macos: python3 -m venv myenv
 
-      For Windows : myvenv\Scripts\activate    ( Activate the created virtual environment. )
-      For Linux Or Macos: source myvenv/bin/activate
+   => For Windows : myvenv\Scripts\activate    ( Activate the created virtual environment. )
+   => For Linux Or Macos: source myvenv/bin/activate
       
-=> pip install -r requirements.txt (Transfer the dependencies in requirements.txt in the repo directory to your virtual environment you created.)
-=> python manage.py runserver (so the backend will work.)
+   => pip install -r requirements.txt (Transfer the dependencies in requirements.txt in the repo directory to your virtual environment you created.)
+   => python manage.py runserver (so the backend will work.)
+   
       
 
 
