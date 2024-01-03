@@ -1,6 +1,6 @@
 https://fimple-ticket-system.vercel.app
 
-<h3>admin login information</h3>
+<h3>Admin Login Information:</h3>
 
 Username: kodluyoruz 
 password: bootcamp109
