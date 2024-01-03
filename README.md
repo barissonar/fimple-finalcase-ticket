@@ -49,13 +49,14 @@ login link : https://fimple-ticket-system.vercel.app/admin
     </div>  
     <br/><br/>  <br/><br/>
     <div>
-    <img src="images/3.JPG">
-    </div>
-    <br/> <br/>   <br/><br/>
-    <div>
     <img src="images/5.JPG">
     </div>  
     <br/> <br/>   <br/><br/>
+    <div>
+    <img src="images/3.JPG">
+    </div>
+    <br/> <br/>   <br/><br/>
+
     <div>
     <img src="images/7.JPG">
     </div>  
