@@ -41,15 +41,33 @@ login link : https://fimple-ticket-system.vercel.app/admin
   <li>✔️ Django</li>
   <li>✔️ django-rest-framework</li>
 </ul>
-
+    
 <div align="center">
     <h2>Images</h2>
-  
-
+    <div>
     <img src="images/4.JPG">
-
-
-
+    </div>  
+    <br/><br/>  <br/><br/>
+    <div>
+    <img src="images/3.JPG">
+    </div>
+    <br/> <br/>   <br/><br/>
+    <div>
+    <img src="images/5.JPG">
+    </div>  
+    <br/> <br/>   <br/><br/>
+    <div>
+    <img src="images/7.JPG">
+    </div>  
+    <br/> <br/>   <br/><br/>
+    <div>
+    <img src="images/8.JPG">
+    </div>  
+    <br/> <br/>   <br/><br/>
+    <div>
+    <img src="images/2.JPG">
+    </div>
+    <br/><br/>   <br/><br/>
      
 </div>
 
