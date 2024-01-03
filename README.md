@@ -10,10 +10,10 @@
 
 login link : https://fimple-ticket-system.vercel.app/admin
 <div>
-Username: kodluyoruz 
+👤 Username: kodluyoruz 
 </div>  
 <div>
-password: bootcamp109
+🔑 Password: bootcamp109
 </div>
 
 <h2>How can you run the application?</h2>
@@ -35,8 +35,21 @@ password: bootcamp109
 </ul>
 
 <h3>For Backend</h3>
+=> Provides API for frontend
+<br><br>
 <ul>
   <li>✔️ Django</li>
   <li>✔️ django-rest-framework</li>
 </ul>
+
+<div align="center">
+    <h2>Images</h2>
+  
+
+    <img src="images/4.JPG">
+
+
+
+     
+</div>
 
